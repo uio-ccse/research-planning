@@ -81,7 +81,9 @@ A postdoctoral researcher could also work on variety of projects, but it was sug
 
 ======= Proposed call for applicants postdoctoral researcher =======
 
-Applications are invited for a post-doctoral researcher in the Center for Computing in Science Education at the University of Oslo in collaboration with the Physics Education Research Lab at Michigan State University. The successful candidate for the current position will work to develop and refine practices and tools for assessment of computational instruction in physics courses (and, later, in bioscience courses). The successful candidate will also collect data on student learning as well as faculty practice in relevant courses, will assist in the analysis of the collected data, and work ot mentor PhD students to do similar work.
+Applications are invited for a post-doctoral researcher in the Center for Computing in Science Education (CCSE) at the University of Oslo in collaboration with the Physics Education Research Lab at Michigan State University. CCSE is a Norwegian Center for Excellence in Education devoted to the integration of computing across undergraduate science learning experiences and the research into the effects of computing on students and faculty, as well as curriculum and instruction.
+
+The successful candidate for the current position will work to develop and refine practices and tools for assessment of computational instruction in physics courses (and, later, in bioscience courses). The successful candidate will also collect data on student learning as well as faculty practice in relevant courses, will assist in the analysis of the collected data, and work to mentor PhD students to do similar work.
 
 Responsibilities include working in coordination with physics and education faculty to:
 o develop an integrated plan of evaluation and innovation;
