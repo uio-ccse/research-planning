@@ -1,6 +1,10 @@
 TITLE: Project outline for computational assessment
 AUTHOR: Danny Caballero at Michigan State University & University of Oslo
 
+!split
 ======== Assessing Computational Understanding in Physics ========
 
- 
+* systematic measurement of student understanding is essential
+* partners are grokking for some systematic assessment in specific classes
+* assessments can help drive further research investigations including comparative and longitudinal studies
+* assessment can lead to high visibility of the centre 
