@@ -1,0 +1,6 @@
+TITLE: Project outline for computational assessment
+AUTHOR: Danny Caballero at Michigan State University & University of Oslo
+
+======== Assessing Computational Understanding in Physics ========
+
+ 
