@@ -1,10 +1,81 @@
 TITLE: Project outline for computational assessment
 AUTHOR: Danny Caballero at Michigan State University & University of Oslo
+DATE: April 1, 2017
 
 !split
-======== Assessing Computational Understanding in Physics ========
+===== Assessing Computational Understanding in Physics =====
 
-* systematic measurement of student understanding is essential
-* partners are grokking for some systematic assessment in specific classes
-* assessments can help drive further research investigations including comparative and longitudinal studies
-* assessment can lead to high visibility of the centre 
+_Rationale_
+
+* Systematic measurement of student understanding is essential for evaluating movement towards more computational instruction
+* Partners (i.e., PICUP and faculty collaborators) are grokking for some form of systematic assessment in specific classes
+* Assessments can help drive further research investigations including comparative and longitudinal studies
+* The development of these assessments can lead to high visibility of the centre
+
+!split
+===== Assessing Computational Understanding in Physics =====
+
+_Product_
+
+* A suite of assessments of computational understanding in physics that are:
+  * developed for specific courses, yet broadly applicable,
+  * informed by observed student understanding,
+  * grounded in faculty-articulated learning goals,
+  * developed using strong theoretical grounding and methodology, and
+  * deployed in a centralized way to facilitate community-level research.
+
+!split
+===== Principles of Development =====
+
+* Course-specific
+* Broad applicability
+* Informative about student understanding
+* Informative to and valuable for faculty
+* Strong theoretical basis for design and measurement
+
+!split
+===== Principles of Development =====
+
+_Course-specific_
+
+* Goals for including computation and thus assessments are tied to specific learning outcomes for courses
+* Course content is one such aspect, but others include the expectation of more advanced and deeper understandings of the same algorithms and tools
+* As different courses vary in their depth and focus, overlapping course content should be evaluated (lowest-common denominator assessment)
+
+!split
+===== Principles of Development =====
+
+_Broad applicability_
+
+* Assessments developed for specific courses should emphasize common content and topics (i.e., overlapping learning goals)
+* Broader applicability of the assessments will lead to broader use of the assessments
+* Can support developing a wealth of understanding about implementation and demographic effects
+
+!split
+===== Principles of Development =====
+
+_Informative about student understandings_
+
+* Assessments should provide information beyond the percentage of students answering correctly
+* Selected assessment stems should provide information about what understandings students are holding in the moment
+* Stems should be drawn from expressed understandings of students
+* Validation of the assessments must include discussion with students
+
+!split
+===== Principles of Development =====
+
+_Informative to and valuable for faculty_
+
+* As such assessments are meant to inform faculty about changes made to their won courses, these assessment development must involve faculty
+* Learning outcomes that will be evaluated must be drawn from faculty teaching specific courses
+* Validation of the assessments must include discussion with faculty
+* Centralized deployment and analysis can ensure minimal impact on faculty time
+
+!split
+===== Principles of Development =====
+
+_Theoretical and Methodological Grounding_
+
+* Interviews with students and faculty will explore the variation in understanding and faculty learning goals (Phenomenographic approach)
+* Continuous validation of items against student understanding and faculty learning goals as assessments are constructed
+* Assessment design will make use of appropriate measurement theory (Rasch model)
