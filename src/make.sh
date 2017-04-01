@@ -29,7 +29,7 @@ rm -f *.aux
 
 html=${name}-reveal
 system doconce format html $name --pygments_html_style=perldoc --keep_pygments_html_bg --html_links_in_new_window --html_output=$html $opt
-system doconce slides_html $html reveal --html_slide_theme=beige
+system doconce slides_html $html reveal --html_slide_theme=sky
 
 # Plain HTML documents
 

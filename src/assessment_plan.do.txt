@@ -76,6 +76,186 @@ _Informative to and valuable for faculty_
 
 _Theoretical and Methodological Grounding_
 
-* Interviews with students and faculty will explore the variation in understanding and faculty learning goals (Phenomenographic approach)
+* Interviews with students and faculty will explore the variation in understanding and faculty learning goals (Phenomenographic and conceptual approach)
 * Continuous validation of items against student understanding and faculty learning goals as assessments are constructed
 * Assessment design will make use of appropriate measurement theory (Rasch model)
+
+!split
+===== Project Details =====
+
+_Key Project Elements_
+
+For a given assessment, we will:
+* Interview faculty about their goals for teaching computation and from what experiences those goals are derived (_Faculty Goal Interviews_)
+* Interview students about their computational understandings (_Student Understanding Interviews_)
+* Develop a preliminary assessment of student understanding informed by faculty goals and categories of student understanding (_Assessment Construction_)
+* Validate the assessment through discussion with faculty, interviews with students, and the use of Rasch modeling on specific items (_Validation Interiews_ and _Rasch Analysis_)
+* Deploy the assessment in relevant contexts (_Evaluation and Further Studies_)
+
+!split
+===== Project Details =====
+
+_Faculty Goal Interviews_
+
+* Interview faculty about their computational experiences and how those experiences lead them to think about what students should "get out of" their computational experiences in a specific class
+* Develop the outcome space for these interviews, which is likely to include computational learning goals
+* Categories of faculty computational experiences and how those relate to what their students should learn is the overarching research
+* Computational learning goals derived from these interviews help form the basis for assessment development
+
+_Possible Papers_
+
+* AJP article  - faculty learning goals for computation
+* PR-PER article - phenomenongraphic study of faculty computational experiences and their relation to computational learning goals
+
+!split
+===== Project Details =====
+
+_Student Understanding Interviews_
+
+* Interview students about their computational understanding
+* Develop categories of students' computational understanding
+* Reported computational difficulties help form the basis for assessment development
+
+_Possible Papers_
+
+* AJP article - reported computational difficulties
+* PR-PER article - detailed results conceptual interview of students around computational understanding
+
+!split
+===== Project Details =====
+
+_Assessment Construction_
+
+* Development of assessment informed by faculty goals and student understandings
+* Development of web framework for deployment and analysis of assessment
+* Pilot testing with students to check further develop initial framework
+
+_Possible Papers_
+
+* Some Ed Tech article - centralized assessment of computational understanding
+* PERC paper - Initial assessment development from goals and understandings
+* PERC paper - Results of pilot testing and changes made
+
+
+!split
+===== Project Details =====
+
+_Validation Interviews_
+
+* Interview faculty to validate preliminary assessment
+* Interview students to validate wording and what meaning can be made from answers
+* Make alterations as needed
+
+
+_Possible Papers_
+
+* PERC paper - Discussion of changes made to assessment based on interviews
+
+
+!split
+===== Project Details =====
+
+_Rasch Analysis_
+
+* Pilot assessment with partners
+* Perform analysis using Rasch tools developed for the assessment and web framework
+* Continued use of assessment and validation with Rasch analysis
+
+_Possible Papers_
+
+* PR-PER article - Use of Rasch analysis to develop assessment; detailed analysis of questions and choices made
+* PR-PER article - presentation of the assessment and its development
+* AJP article - presentation of assessment and important results
+* Some Ed Tech article - how Rasch analysis is used and deployed in web framework for assessment
+
+!split
+===== Project Details =====
+
+_Evaluation and Further Studies_
+
+* Demographic and Cross-institutional analysis of existing data
+* Cross-sectional and longitudinal studies
+* Comparative students
+
+PR-PER and AJP articles - as completed
+
+!split
+===== Project Details =====
+
+_Necessary technological supports_
+
+In order to perform analysis and deploy (and score) the assessment in a centralized manner, we will need to:
+
+* develop a set of open-source tools for Rasch analysis (e.g., using Python),
+* develop a web framework for the construction and deployment of assessments (e.g., using devilry and additional tools),
+* develop a set of open-source analysis tools that generate reports for faculty (e.g., devilry, doconce, and additional tools), and
+* develop a set of open-source analysis tools that allow us to answer broader questions by pooling data across faculty users.
+
+!split
+===== Project Timeline =====
+
+* _Semester 1:_
+  * Develop protocol for faculty and student interviews
+  * Interview students and faculty
+
+!split
+===== Project Timeline =====
+
+* _Semester 2:_
+  * Perform analysis of faculty and student interviews
+  * Identify faculty goals and preliminary categories of student understanding
+  * Continue phenomenographic analysis of faculty and student interviews
+
+!split
+===== Project Timeline =====
+
+* _Semester 3:_
+  * Develop preliminary assessment questions
+  * Validate assessment with faculty and student interviews
+  * Identify partners for initial data collection
+  * Continue phenomenographic analysis of faculty and student interviews
+  * Begin development of web framework for delivery and analysis
+
+!split
+===== Project Timeline =====
+
+* _Semester 4:_
+  * Pilot assessment with partners
+  * Obtain feedback on usage
+  * Perform Rasch analysis on preliminary data to identify assessment items to review
+  * Alter problematic items as needed
+  * Revalidate assessment with student and faculty as needed
+  * Continue to identify partners
+  * Complete phenomenographic analysis of faculty and student interviews
+
+!split
+===== Project Timeline =====
+
+* _Semester 5:_
+  * Launch second pilot assessment with partners using updated web framework, assessment, and analysis tools
+  * Perform Rasch analysis on second round of data to identify assessment items to review
+  * Alter problematic items as needed
+  * Revalidate assessment with student and faculty as needed
+  * Continue to identify partners
+  * Develop tools for cross-institutional and demographic analysis
+  * Begin preliminary investigation of cross-institutional and demographic effects
+
+!split
+===== Project Timeline =====
+
+* _Semester 6:_
+  * Launch near final assessment with partners using updated web framework, assessment, and analysis tools
+  * Perform Rasch analysis on second round of data to identify assessment items to review
+  * Alter problematic items as needed
+  * Revalidate assessment with student and faculty as needed
+  * Perform cross-institutional and demographic analyses
+  * _Finalized assessment completed by end of semester_
+
+!split
+===== Proposed Project Resources =====
+
+* Danny Caballero
+* Postdoc (to lead on project - need PER background)
+* PhD student 1 (PER with qualitative emphasis) - Dissertation: Categories of faculty's computational goals and student computational understandings for course X
+* PhD student 2 (PER with quantitative emphasis) - Dissertation: Development of assessment of students' computational understanding in course X
+* Master's students (PER, Computational, Web) - Projects: Development and deployment of analysis tools, web framework, testing usability, etc.
